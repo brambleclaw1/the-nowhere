@@ -7,5 +7,32 @@
         "stream": true
       }
     ]
+  },
+  "zebes": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "the_unknown:planet_zebes",
+        "stream": true
+      }
+    ]
+  },
+  "pigs": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "the_unknown:pigs",
+        "stream": true
+      }
+    ]
+  },
+  "overside": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "the_unknown:overside",
+        "stream": true
+      }
+    ]
   }
 }

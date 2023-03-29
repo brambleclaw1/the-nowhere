@@ -1,0 +1,108 @@
+{
+  "mod_elements": [
+    {
+      "name": "TheUnknownTab",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "the_unknown_tab",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "CorruptedLava",
+      "type": "fluid",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corrupted_lava",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/theunknown/fluid/types/CorruptedLavaFluidType.java",
+          "src/main/java/net/mcreator/theunknown/fluid/CorruptedLavaFluid.java",
+          "src/main/resources/assets/the_unknown/blockstates/corrupted_lava.json",
+          "src/main/java/net/mcreator/theunknown/item/CorruptedLavaItem.java",
+          "src/main/java/net/mcreator/theunknown/block/CorruptedLavaBlock.java",
+          "src/main/resources/assets/the_unknown/models/item/corrupted_lava_bucket.json",
+          "src/main/resources/assets/the_unknown/models/block/corrupted_lava.json"
+        ]
+      }
+    },
+    {
+      "name": "TheUnknown",
+      "type": "dimension",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "the_unknown",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/the_unknown/dimension_type/the_unknown.json",
+          "src/main/resources/assets/the_unknown/models/block/the_unknown_portal_ns.json",
+          "src/main/java/net/mcreator/theunknown/world/teleporter/TheUnknownPortalShape.java",
+          "src/main/java/net/mcreator/theunknown/block/TheUnknownPortalBlock.java",
+          "src/main/resources/assets/the_unknown/blockstates/the_unknown_portal.json",
+          "src/main/resources/data/the_unknown/dimension/the_unknown.json",
+          "src/main/resources/assets/the_unknown/models/block/the_unknown_portal_ew.json",
+          "src/main/java/net/mcreator/theunknown/world/dimension/TheUnknownDimension.java",
+          "src/main/resources/assets/the_unknown/models/item/the_unknown.json",
+          "src/main/java/net/mcreator/theunknown/item/TheUnknownItem.java",
+          "src/main/java/net/mcreator/theunknown/world/teleporter/TheUnknownTeleporter.java"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "metroid",
+      "files": [
+        "metroid_prime_remix"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "zebes",
+      "files": [
+        "planet_zebes"
+      ],
+      "category": "music",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.the_unknown.corrupted_lava_bucket": "Corrupted Lava Bucket",
+      "item.the_unknown.the_unknown": "The Unknown Portal Igniter",
+      "itemGroup.tabthe_unknown_tab": "The Unknown",
+      "subtitles.zebes": "",
+      "subtitles.metroid": "",
+      "fluid.the_unknown.corrupted_lava": "Corrupted Lava",
+      "block.the_unknown.corrupted_lava": "Corrupted Lava"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "the_unknown",
+    "modName": "The Unknown",
+    "version": "1.0.0",
+    "author": "gavin, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "modElementsPackage": "net.mcreator.theunknown",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300110610
+}

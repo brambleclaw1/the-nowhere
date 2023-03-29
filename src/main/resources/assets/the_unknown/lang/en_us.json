@@ -2,7 +2,10 @@
   "item.the_unknown.corrupted_lava_bucket": "Corrupted Lava Bucket",
   "item.the_unknown.the_unknown": "The Unknown Portal Igniter",
   "itemGroup.tabthe_unknown_tab": "The Unknown",
+  "subtitles.zebes": "",
   "subtitles.metroid": "",
   "fluid.the_unknown.corrupted_lava": "Corrupted Lava",
-  "block.the_unknown.corrupted_lava": "Corrupted Lava"
+  "block.the_unknown.corrupted_lava": "Corrupted Lava",
+  "subtitles.overside": "",
+  "subtitles.pigs": ""
 }
