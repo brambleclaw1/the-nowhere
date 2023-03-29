@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "the_unknown:block/the_unknown_portal_ew"
+    },
+    "axis=x": {
+      "model": "the_unknown:block/the_unknown_portal_ns"
+    }
+  }
+}

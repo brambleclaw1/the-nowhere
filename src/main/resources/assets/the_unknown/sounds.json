@@ -1,0 +1,11 @@
+{
+  "metroid": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "the_unknown:metroid_prime_remix",
+        "stream": true
+      }
+    ]
+  }
+}

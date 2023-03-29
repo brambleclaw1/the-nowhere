@@ -1,0 +1,11 @@
+{
+  "_fv": 39,
+  "_type": "tab",
+  "definition": {
+    "name": "The Unknown",
+    "icon": {
+      "value": "Blocks.SCULK_CATALYST"
+    },
+    "showSearch": false
+  }
+}
